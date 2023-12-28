@@ -1,0 +1,18 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+.carousel-item {
+    background: #12294b;
+}
+
+.services-list .box {
+    background: #e7e7e7;
+    margin-bottom: 10px;
+}
+
+[data-bs-theme=dark]{
+    .services-list .box {
+        background: #12294b;
+        margin-bottom: 10px;
+    }
+}
+
